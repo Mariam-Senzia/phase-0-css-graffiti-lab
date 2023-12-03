@@ -1,1 +1,9 @@
 /* write your override styles here */
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+
+#wall .tag-1 {
+    display: none;
+}
